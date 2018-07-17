@@ -1,0 +1,7 @@
+com\letsstartcoding\springbootrestapioauth\controller\DemoController.class
+com\letsstartcoding\springbootrestapioauth\model\Role.class
+com\letsstartcoding\springbootrestapioauth\App.class
+com\letsstartcoding\springbootrestapioauth\config\OAuth2Config.class
+com\letsstartcoding\springbootrestapioauth\repsoitory\UserRepository.class
+com\letsstartcoding\springbootrestapioauth\service\UserService.class
+com\letsstartcoding\springbootrestapioauth\model\User.class
